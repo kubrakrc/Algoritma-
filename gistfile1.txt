@@ -24,7 +24,7 @@ sayacDizisi[j]= l+1 ;
 } 
 sayac++; 
 } 
-for (int k = 0; k < 42; k++) { 
+for (int k = 0; k < 74; k++) { 
 if (sayacDizisi[k] != 0) 
 System.out.println(sayacDizisi[k] + " adet = " + karakterDizisi[k] ); 
 } 
